@@ -1,0 +1,6 @@
+# Github
+Host github
+	HostName github.com
+	User ebowall
+	IdentityFile ~/.ssh/id_rsa
+
